@@ -16,4 +16,10 @@ The TIMSS data used in the study is available for download at https://timss2019.
 
 ### Code Scripts and Description:
 
+HomeworkModelGitHub.cpp - Source code for the Multivariate BCF model with four treatment groups.
+HomeworkPaperGitHub.R - Code for fitting the model used to obtain the main results of the paper.
+HomeworkPaperCompleteCasesGitHub.R - Code for fitting the model used to obtain the complete case version of results in the supplementary material.
+VarianceCalculationsGitHub.R - Code for calculating the $R^2$ and ICC results contained in the supplementary material.
+
+
 
