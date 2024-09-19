@@ -10,4 +10,10 @@ The TIMSS data used in the study is available for download at https://timss2019.
 
 ![alt text](https://github.com/Nathan-McJames/Homework-Paper/blob/main/Pictures/tile_plot.svg?raw=true)
 
+![alt text](https://github.com/Nathan-McJames/Homework-Paper/blob/main/Pictures/frequency_effects.svg?raw=true)
+
+![alt text](https://github.com/Nathan-McJames/Homework-Paper/blob/main/Pictures/duration_effects.svg?raw=true)
+
+### Code Scripts and Description:
+
 
