@@ -8,4 +8,6 @@ The preprint of this paper is available online at: https://osf.io/preprints/edar
 
 The TIMSS data used in the study is available for download at https://timss2019.org/international-database/
 
+![alt text](https://github.com/Nathan-McJames/Homework-Paper/blob/main/Pictures/tile_plot.svg?raw=true)
+
 
